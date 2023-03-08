@@ -1,8 +1,7 @@
-### Hi there 👋
+### Hey there 👋
 ## About me 
-Me name is Tema
-Russia, Moscow
-Currently studing in BMSTU
+- Im a junior game developer/cgi programmer from Moscow, Russia.
+- Currently studying at Moscow State Technical University as a CAD developer.
 
 ## Projects
 - 🔭 I’m currently working on COSMOPHIDIAN
