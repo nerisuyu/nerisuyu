@@ -6,6 +6,7 @@ Currently studing in BMSTU
 
 ## Projects
 - 🔭 I’m currently working on COSMOPHIDIAN
+- 🔭 I’m currently working on Climate Control For my Honda HR-V powered by Arduino 
 - A Dice Rolls Into A Bar GMTK 2022 GameJam Entry
 - ⚡3D visualizer based on Pygame2d⚡
 <!--
