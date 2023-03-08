@@ -1,9 +1,9 @@
 ### Hey there 👋
 ## About me 
-- Im a junior game developer/cgi programmer from Moscow, Russia.
+- Im a junior game developer/graphics programmer from Moscow, Russia. 🌱
 - Currently studying at Moscow State Technical University as a CAD developer.
 
-## Projects
+## Recent projects
 - 🔭 I’m currently working on COSMOPHIDIAN
 - 🔭 I’m currently working on Climate Control For my Honda HR-V powered by Arduino 
 - A Dice Rolls Into A Bar GMTK 2022 GameJam Entry
