@@ -1,5 +1,13 @@
 ### Hi there 👋
+## About me 
+Me name is Tema
+Russia, Moscow
+Currently studing in BMSTU
 
+## Projects
+- 🔭 I’m currently working on COSMOPHIDIAN
+- A Dice Rolls Into A Bar GMTK 2022 GameJam Entry
+- ⚡3D visualizer based on Pygame2d⚡
 <!--
 **nerisuyu/nerisuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
