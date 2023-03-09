@@ -14,7 +14,8 @@ Soon on [itch.io](https://itch.io/)!⚡\
 GH source code: [cosmophidian](https://github.com/nerisuyu/cosmophidian)
 ### Basic 3d renderer
 A small research project on linear algebra and matrix transformations\
-The programm based on 2d engine [PyGame](https://www.pygame.org/) visualizes STL models
+![Alt Text](frogfilling.gif) ![Alt Text](socratus.gif)\
+The programm based on 2d engine [PyGame](https://www.pygame.org/) visualizes STL models.\
 GH source code: [3d renderer](https://github.com/nerisuyu/pygame_3d_engine)
 > sheesh
 - 🔭 I’m currently working on COSMOPHIDIAN
