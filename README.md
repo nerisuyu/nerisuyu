@@ -24,7 +24,7 @@
 ### (WIP) 🐍Cosmophidian
 A [pico-8](https://www.lexaloffle.com/pico-8.php) movement-based 👾 *shmup* 👾 game about killing snakes in space.
 
-![Alt Text](cosmophidian/cosmophidian_1.gif) ![Alt Text](cosmophidian/cosmophidian_0.gif)\
+![Alt Text](cosmophidian/cosmophidian_14.gif) ![Alt Text](cosmophidian/cosmophidian_1.gif) ![Alt Text](cosmophidian/cosmophidian_0.gif) ![Alt Text](cosmophidian/cosmophidian_9.gif) \
 Soon on ✨[itch.io](https://itch.io/)!\
 ⚡GH: [cosmophidian](https://github.com/nerisuyu/cosmophidian)
 
