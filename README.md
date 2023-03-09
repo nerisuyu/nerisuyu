@@ -1,8 +1,8 @@
 ### Hey there 👋
-## About me 
+## About me 👦
 
-- Im a junior game developer/graphics programmer from Moscow, Russia. 🌱
-- Currently studying at Moscow State Technical University as a CAD developer.
+- Im a junior game developer/graphics programmer from Moscow, Russia. 
+- Currently studying at Moscow State Technical University as a CAD developer.🧑‍🎓
 
 ### 🛠 &nbsp;Languages and Tools :
 
