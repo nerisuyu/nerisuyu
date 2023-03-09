@@ -43,8 +43,9 @@ I worked on the visuals, sound design and music.🔊
 🎵Soundtrack: [YT](https://youtu.be/SDezMVtSkho)
 
 ### (WIP) 🌡️ Arduino Based Car Climate Control
-Climate Control used to stabilize internal temperature in Honda HR-V.
+Climate Control used to stabilize internal temperature in Honda HR-V.\
 It uses several temperature sensors, a light meter and a servo.
+
 🚧**no photos yet**🚧
 
 ⚡GH: [Climate Control](https://github.com/nerisuyu/ArduinoCarClimateControl)
