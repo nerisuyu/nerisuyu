@@ -38,7 +38,7 @@ The program is based on 2d engine [PyGame](https://www.pygame.org/) and visualiz
 
 <img src="A_Dice_Rolls_Into_A_Bar/ADRIAB_cover.jpg" title="ADRIAB" alt="ADRIAB" width="600" height="337"/>&nbsp;
 <img src="A_Dice_Rolls_Into_A_Bar/ADRIAB_screenshot.png" title="ADRIAB" alt="ADRIAB" width="600" height="337"/>&nbsp;
-
+[![Watch the video](A_Dice_Rolls_Into_A_Bar/ADRIAB_cover.jpg)](A_Dice_Rolls_Into_A_Bar/ADRIAB_theme.mp4)
 
 > sheesh
 - 🔭 I’m currently working on COSMOPHIDIAN
