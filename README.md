@@ -11,6 +11,9 @@ A [pico-8](https://www.lexaloffle.com/pico-8.php) movement-based 👾 *shmup* �
 
 ![Alt Text](cosmophidian_0.gif) ![Alt Text](cosmophidian_1.gif)\
 Soon on [itch.io](https://itch.io/)!⚡
+### Basic 3d renderer
+A small research project on linear algebra and matrix transformations\
+The programm based on 2d engine [PyGame](https://www.pygame.org/) visualizes STL models
 
 > sheesh
 - 🔭 I’m currently working on COSMOPHIDIAN
