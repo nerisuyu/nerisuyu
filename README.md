@@ -19,14 +19,14 @@
 
 ## Recent projects
 
-### (WIP) Cosmophidian
-A [pico-8](https://www.lexaloffle.com/pico-8.php) movement-based 👾 *shmup* 👾 about killing snakes in space.
+### (WIP) 🐍Cosmophidian
+A [pico-8](https://www.lexaloffle.com/pico-8.php) movement-based 👾 *shmup* 👾 game about killing snakes in space.
 
 ![Alt Text](cosmophidian/cosmophidian_1.gif) ![Alt Text](cosmophidian/cosmophidian_0.gif)\
 Soon on ✨[itch.io](https://itch.io/)!\
 ⚡GH: [cosmophidian](https://github.com/nerisuyu/cosmophidian)
 
-### Basic 3D Renderer
+### 🎨 Basic 3D Renderer
 A small research project on linear algebra and matrix transformations
 
 ![Alt Text](pygame_3d_renderer/frogfilling.gif) ![Alt Text](pygame_3d_renderer/socratus.gif)\
@@ -42,8 +42,12 @@ I worked on the visuals, sound design and music.🔊
 ✨Itch.io page: [A Dice Rolls Into A Bar...](https://rembo51.itch.io/a-dice-rolls-into-a)\
 🎵Soundtrack: [YT](https://youtu.be/SDezMVtSkho)
 
-### (WIP) Arduino Based Car Climate Control
+### (WIP) 🌡️ Arduino Based Car Climate Control
+Climate Control used to stabilize internal temperature in Honda HR-V.
+It uses several temperature sensors, a light meter and a servo.
+🚧**no photos yet**🚧
 
+⚡GH: [Climate Control](https://github.com/nerisuyu/ArduinoCarClimateControl)
 <!--
 > sheesh
 - 🔭 I’m currently working on COSMOPHIDIAN
