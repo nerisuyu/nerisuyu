@@ -1,8 +1,8 @@
 ### Hey there 👋
-## About me 
+## About me 👦
 
-- Im a junior game developer/graphics programmer from Moscow, Russia. 🌱
-- Currently studying at Moscow State Technical University as a CAD developer.
+- Im a junior game developer/graphics programmer from Moscow, Russia. 
+- Currently studying at Moscow State Technical University as a CAD developer.🧑‍🎓
 
 ### 🛠 &nbsp;Languages and Tools :
 
@@ -14,7 +14,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 <img src="icons/pico-8.png" title="pico-8" alt="pico-8" width="40" height="40"/>&nbsp;
 <img src="icons/VSCode.png" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp;
-<img src="icons/FLStudio.png" title="FL Studio" alt="FL Studio" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
 ## Recent projects
@@ -22,7 +22,7 @@
 ### (WIP) Cosmophidian
 A [pico-8](https://www.lexaloffle.com/pico-8.php) movement-based 👾 *shmup* 👾 about killing snakes in space.
 
-![Alt Text](cosmophidian/cosmophidian_0.gif) ![Alt Text](cosmophidian/cosmophidian_1.gif)\
+![Alt Text](cosmophidian/cosmophidian_1.gif) ![Alt Text](cosmophidian/cosmophidian_0.gif)\
 Soon on [itch.io](https://itch.io/)✨!\
 ⚡GH: [cosmophidian](https://github.com/nerisuyu/cosmophidian)
 
