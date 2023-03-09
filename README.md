@@ -4,6 +4,17 @@
 - Im a junior game developer/graphics programmer from Moscow, Russia. 🌱
 - Currently studying at Moscow State Technical University as a CAD developer.
 
+### 🛠 &nbsp;Languages and Tools :
+
+<p>
+  
+<img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cpp" alt="cpp" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+<img src="icons/pico-8.png" title="pico-8" alt="pico-8" width="40" height="40"/>&nbsp;
+</p>
+
 ## Recent projects
 
 ### (WIP) Cosmophidian
