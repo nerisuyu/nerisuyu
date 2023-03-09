@@ -33,11 +33,11 @@ A small research project on linear algebra and matrix transformations
 The program is based on 2d engine [PyGame](https://www.pygame.org/) and visualizes STL models.\
 ⚡GH: [3d renderer](https://github.com/nerisuyu/pygame_3d_engine)
 
-### A Dice Rolls Into A Bar...
+### 🎲 A Dice Rolls Into A Bar...
 [GMTK GameJam 2022](https://itch.io/jam/gmtk-jam-2022) entry about rolling a die.
 
-![Alt Text](A_Dice_Rolls_Into_A_Bar/ADRIAB_cover.jpg)
-![Alt Text](A_Dice_Rolls_Into_A_Bar/ADRIAB_screenshot.png) 
+<img src="A_Dice_Rolls_Into_A_Bar/ADRIAB_cover.jpg" title="ADRIAB" alt="ADRIAB" width="600" height="337"/>&nbsp;
+<img src="A_Dice_Rolls_Into_A_Bar/ADRIAB_screenshot.png" title="ADRIAB" alt="ADRIAB" width="600" height="337"/>&nbsp;
 
 
 > sheesh
