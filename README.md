@@ -35,7 +35,7 @@ The program is based on 2d engine [PyGame](https://www.pygame.org/) and visualiz
 
 ### 🎲 A Dice Rolls Into A Bar...
 [GMTK GameJam 2022](https://itch.io/jam/gmtk-jam-2022) entry about rolling a die made in 48 hours.\
-I worked on the visuals, sound design and music.🔊
+I worked on visuals, sound design and music.🔊
 
 <img src="A_Dice_Rolls_Into_A_Bar/ADRIAB_cover.jpg" title="ADRIAB" alt="ADRIAB" width="600" height="337"/>&nbsp;
 <img src="A_Dice_Rolls_Into_A_Bar/ADRIAB_screenshot.png" title="ADRIAB" alt="ADRIAB" width="600" height="337"/>&nbsp;\
