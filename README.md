@@ -21,12 +21,12 @@
 
 ## Recent projects
 
-### (WIP) 🐍Cosmophidian
+###  🐍Cosmophidian
 A [pico-8](https://www.lexaloffle.com/pico-8.php) movement-based 👾 *shmup* 👾 game about killing snakes in space.
 
 ![Alt Text](cosmophidian/cosmophidian_14.gif) ![Alt Text](cosmophidian/cosmophidian_1.gif) ![Alt Text](cosmophidian/cosmophidian_9.gif)\
 
-Soon on ✨[itch.io](https://itch.io/)!\
+Play on ✨[itch.io]([https://itch.io/](https://nerisuyu.itch.io/cosmophidian))!\
 ⚡GH: [cosmophidian](https://github.com/nerisuyu/cosmophidian)
 
 ### 🎨 Basic 3D Renderer
