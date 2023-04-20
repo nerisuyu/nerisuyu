@@ -1,7 +1,7 @@
 ### Hey there 👋
 ## About me 👦
 
-- 🔭 Im a junior game developer/graphics programmer from Moscow, Russia. 
+- 🔭 Im a programmer from Moscow, Russia. 
 - 🧑‍🎓 Currently studying at Moscow State Technical University as a CAD developer.
 - 📫 How to reach me: &nbsp;\
 [<img src="https://cdn3.iconfinder.com/data/icons/popular-services-brands-vol-2/512/telegram-512.png" width="30" height="30">](https://t.me/nerisuyu)
