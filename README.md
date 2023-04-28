@@ -24,26 +24,32 @@
 ###  🐍Cosmophidian
 A [pico-8](https://www.lexaloffle.com/pico-8.php) movement-based 👾 *shmup* 👾 game about killing snakes in space.
 
-![Alt Text](cosmophidian/cosmophidian_14.gif) ![Alt Text](cosmophidian/cosmophidian_1.gif) ![Alt Text](cosmophidian/cosmophidian_9.gif)\
-
 Play here ✨[itch.io/cosmophidian](https://nerisuyu.itch.io/cosmophidian)!\
-⚡GH: [cosmophidian](https://github.com/nerisuyu/cosmophidian)
+⚡GitHub: [cosmophidian](https://github.com/nerisuyu/cosmophidian)
+
+![Alt Text](cosmophidian/cosmophidian_14.gif) ![Alt Text](cosmophidian/cosmophidian_1.gif)\
+![Alt Text](cosmophidian/cosmophidian_9.gif) ![Alt Text](cosmophidian/cosmophidian_55.gif)\
+
+
 
 ### 🎨 Basic 3D Renderer
 A small research project on linear algebra and matrix transformations
+⚡GitHub: [3d renderer](https://github.com/nerisuyu/pygame_3d_engine)
 
 ![Alt Text](pygame_3d_renderer/frogfilling.gif) ![Alt Text](pygame_3d_renderer/socratus.gif)\
 The program is based on 2d engine [PyGame](https://www.pygame.org/) and visualizes STL models.\
-⚡GH: [3d renderer](https://github.com/nerisuyu/pygame_3d_engine)
+
 
 ### 🎲 A Dice Rolls Into A Bar...
 [GMTK GameJam 2022](https://itch.io/jam/gmtk-jam-2022) entry about rolling a die made in 48 hours.\
 I worked on visuals, sound design and music.🔊
 
-<img src="A_Dice_Rolls_Into_A_Bar/ADRIAB_cover.jpg" title="ADRIAB" alt="ADRIAB" width="600" height="337"/>&nbsp;
-<img src="A_Dice_Rolls_Into_A_Bar/ADRIAB_screenshot.png" title="ADRIAB" alt="ADRIAB" width="600" height="337"/>&nbsp;\
 ✨Itch.io page: [A Dice Rolls Into A Bar...](https://rembo51.itch.io/a-dice-rolls-into-a)\
 🎵Soundtrack: [YT](https://youtu.be/SDezMVtSkho)
+
+<img src="A_Dice_Rolls_Into_A_Bar/ADRIAB_cover.jpg" title="ADRIAB" alt="ADRIAB" width="600" height="337"/>&nbsp;
+<img src="A_Dice_Rolls_Into_A_Bar/ADRIAB_screenshot.png" title="ADRIAB" alt="ADRIAB" width="600" height="337"/>&nbsp;\
+
 
 ### (WIP) 🌡️ Arduino Based Car Climate Control
 Climate Control used to stabilize internal temperature in Honda HR-V.\
@@ -51,7 +57,7 @@ It uses several temperature sensors, a light meter and a servo.
 
 🚧**no photos yet**🚧
 
-⚡GH: [Climate Control](https://github.com/nerisuyu/ArduinoCarClimateControl)
+⚡GitHub: [Climate Control](https://github.com/nerisuyu/ArduinoCarClimateControl)
 <!--
 > sheesh
 - 🔭 I’m currently working on COSMOPHIDIAN
