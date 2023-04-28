@@ -26,7 +26,7 @@ A [pico-8](https://www.lexaloffle.com/pico-8.php) movement-based 👾 *shmup* �
 
 ![Alt Text](cosmophidian/cosmophidian_14.gif) ![Alt Text](cosmophidian/cosmophidian_1.gif) ![Alt Text](cosmophidian/cosmophidian_9.gif)\
 
-Play on ✨[itch.io](https://nerisuyu.itch.io/cosmophidian)!\
+Play here ✨[itch.io/cosmophidian](https://nerisuyu.itch.io/cosmophidian)!\
 ⚡GH: [cosmophidian](https://github.com/nerisuyu/cosmophidian)
 
 ### 🎨 Basic 3D Renderer
