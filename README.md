@@ -60,7 +60,7 @@ It uses several temperature sensors, a light meter and a servo.
 
 ⚡GitHub: [Climate Control](https://github.com/nerisuyu/ArduinoCarClimateControl)
 
-### 🎨 Some 3D models
+### 🎨 Some 3D artworks
 <img src="/3d_models/lightsensor.gif" width="250" height="250"/> <img src="/3d_models/teabag.gif" width="250" height="250"/> <img src="/3d_models/ukulele.gif" width="250" height="250"/>
 
 <img src="/3d_models/hotel_room.png" width="480" height="270"/>
