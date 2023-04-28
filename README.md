@@ -59,6 +59,21 @@ It uses several temperature sensors, a light meter and a servo.
 🚧**no photos yet**🚧
 
 ⚡GitHub: [Climate Control](https://github.com/nerisuyu/ArduinoCarClimateControl)
+
+### 🎨 Some 3D models
+![Alt Text](3d_models/lightsensor.gif) ![Alt Text](3d_models/teabag.gif) ![Alt Text](3d_models/ukulele.gif)\
+
+
+
+A small research project on linear algebra and matrix transformations\
+The program is based on 2d engine [PyGame](https://www.pygame.org/) and visualizes STL models.\
+⚡GitHub: [3d renderer](https://github.com/nerisuyu/pygame_3d_engine)
+
+![Alt Text](pygame_3d_renderer/frogfilling.gif) ![Alt Text](pygame_3d_renderer/socratus.gif)\
+
+
+
+
 <!--
 > sheesh
 - 🔭 I’m currently working on COSMOPHIDIAN
