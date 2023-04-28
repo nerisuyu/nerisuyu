@@ -34,10 +34,11 @@ Play here ✨[itch.io/cosmophidian](https://nerisuyu.itch.io/cosmophidian)!\
 
 ### 🎨 Basic 3D Renderer
 A small research project on linear algebra and matrix transformations\
+The program is based on 2d engine [PyGame](https://www.pygame.org/) and visualizes STL models.\
 ⚡GitHub: [3d renderer](https://github.com/nerisuyu/pygame_3d_engine)
 
 ![Alt Text](pygame_3d_renderer/frogfilling.gif) ![Alt Text](pygame_3d_renderer/socratus.gif)\
-The program is based on 2d engine [PyGame](https://www.pygame.org/) and visualizes STL models.\
+
 
 
 ### 🎲 A Dice Rolls Into A Bar...
