@@ -61,44 +61,13 @@ It uses several temperature sensors, a light meter and a servo.
 ⚡GitHub: [Climate Control](https://github.com/nerisuyu/ArduinoCarClimateControl)
 
 ### 🎨 Some 3D models
-![Alt Text](3d_models/lightsensor.gif) ![Alt Text](3d_models/teabag.gif) ![Alt Text](3d_models/ukulele.gif)\
+<img src="/3d_models/lightsensor.gif" width="250" height="250"/> <img src="/3d_models/teabag.gif" width="250" height="250"/> <img src="/3d_models/ukulele.gif" width="250" height="250"/>
 
-
-
-A small research project on linear algebra and matrix transformations\
-The program is based on 2d engine [PyGame](https://www.pygame.org/) and visualizes STL models.\
-⚡GitHub: [3d renderer](https://github.com/nerisuyu/pygame_3d_engine)
-
-![Alt Text](pygame_3d_renderer/frogfilling.gif) ![Alt Text](pygame_3d_renderer/socratus.gif)\
+<img src="/3d_models/hotel_room.png" width="480" height="270"/>
+<img src="/3d_models/introscope.png" width="480" height="320"/>
+<img src="/3d_models/bed.png" width="480" height="320"/>
+<img src="/3d_models/lidya.png" width="480" height="320"/>
 
 
 
 
-<!--
-> sheesh
-- 🔭 I’m currently working on COSMOPHIDIAN
-- 🔭 I’m currently working on Climate Control For my Honda HR-V powered by Arduino 
-- A Dice Rolls Into A Bar GMTK 2022 GameJam Entry
-- ⚡3D visualizer based on Pygame2d⚡
-- Climate Control 
-
-
-*AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA*
-**AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA**
-
-**nerisuyu/nerisuyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<!--![Alt Text](cosmophidian/cosmophidian_0.gif) \ -->
