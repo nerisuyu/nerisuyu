@@ -28,7 +28,7 @@ Play here ✨[itch.io/cosmophidian](https://nerisuyu.itch.io/cosmophidian)!\
 ⚡GitHub: [cosmophidian](https://github.com/nerisuyu/cosmophidian)
 
 ![Alt Text](cosmophidian/cosmophidian_14.gif) ![Alt Text](cosmophidian/cosmophidian_1.gif)\
-![Alt Text](cosmophidian/cosmophidian_9.gif) ![Alt Text](cosmophidian/cosmophidian_55.gif)\
+![Alt Text](cosmophidian/cosmophidian_9.gif) ![Alt Text](cosmophidian/cosmophidian_55.gif)
 
 
 
